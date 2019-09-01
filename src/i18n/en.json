@@ -1,0 +1,4 @@
+{
+    "macoolka.i18n.errors.LanguageNotFound": "Must provide a default locale({locale})",
+    "macoolka.i18n.errors.MessageNotFound": "Message ({id}) not found in locale({locale})"
+}

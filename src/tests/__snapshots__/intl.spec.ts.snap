@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`inner intl data 1`] = `
+Object {
+  "en": Object {
+    "macoolka.i18n.errors.LanguageNotFound": "Must provide a default locale({locale})",
+    "macoolka.i18n.errors.MessageNotFound": "Message ({id}) not found in locale({locale})",
+  },
+  "zh": Object {
+    "macoolka.i18n.errors.LanguageNotFound": "缺省语言({locale})没有发现",
+    "macoolka.i18n.errors.MessageNotFound": "消息({id})没有定义，请核对语言包({locale})",
+  },
+}
+`;

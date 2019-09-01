@@ -1,0 +1,4 @@
+{
+    "macoolka.i18n.errors.LanguageNotFound": "缺省语言({locale})没有发现",
+    "macoolka.i18n.errors.MessageNotFound": "消息({id})没有定义，请核对语言包({locale})"
+}
